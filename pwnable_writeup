@@ -1,0 +1,8 @@
+fd@ubuntu:~$ echo "LETMEWIN" | ./fd 4660
+good job :)
+mommy! I think I know what a file descriptor is!!
+
+col@ubuntu:~$ ./col "$(python -c 'import sys;sys.stdout.write("\x05\nc\xd5\x18A`G\xc1\x8a\xc0\xa6\x0b\xb4\x10D\x03\x80H\x1a")')"
+daddy! I just managed to create a hash collision :)
+
+
